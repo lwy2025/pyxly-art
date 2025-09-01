@@ -1,4 +1,4 @@
-baseURL = 'https://nav.pyxly.sbs/'
+baseURL = 'https://art.pyxly.sbs/'
 languageCode = 'en-us'
 title = '普联星驿-文章'
 theme = 'FixIt'
