@@ -1,0 +1,11 @@
+baseURL = 'https://lwy2025.github.io/pyxly-art/'
+languageCode = 'en-us'
+title = '普联星驿-文章'
+theme = 'FixIt'
+defaultContentLanguage = 'zh-cn'
+[markup]
+  _merge = "shallow"
+[outputs]
+  _merge = "shallow"
+[taxonomies]
+  _merge = "shallow"
